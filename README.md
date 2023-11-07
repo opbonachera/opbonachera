@@ -5,4 +5,4 @@
 - 📅 My coding journey began in 2021 as a hobby, but it was not until last year that I started taking it seriously. My favorite learning tools are the development of small projects and the reading of books.
 - ⚛ Technologies I am familiar with: HTML, CSS, Javascript, Docker, React.js, TypeScript, Next.js.  
 - 📓 My main knowledge and experience remains on the Frontend, but I have a general understanding on both Frontend and Backend of web applications. 
-- 💬 For more information about me, go to my LinkedIn profile! 
+
