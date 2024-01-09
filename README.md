@@ -1,5 +1,5 @@
- Hi there! 👋 My name is Ornella Bonachera. A technology enthusiast. 
-
+ Hi there! 👋 My name is Ornella Bonachera. 
+ 
 - 📜 Currently studying Informatics Engineering at Universidad Nacional de La Matanza.
 - 🔭 Working as a Junior Web Developer in Universidad Nacional de Avellaneda.
 - 📅 My coding journey began in 2021 as a hobby, but it was not until last year that I started taking it seriously. My favorite learning tools are the development of small projects and the reading of books.
