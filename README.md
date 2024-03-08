@@ -1,4 +1,4 @@
- Hi there! 👋 My name is Ornella Bonachera. 
+# Hi there! 👋 My name is Ornella Bonachera. 
  
 - 📜 Currently studying Informatics Engineering at Universidad Nacional de La Matanza.
 - 🔭 Working as a Junior Web Developer in Universidad Nacional de Avellaneda.
@@ -6,3 +6,4 @@
 - ⚛ Technologies I am familiar with: HTML, CSS, Javascript, Docker, React.js, TypeScript, Next.js, Angular.js.
 - 📓 My main knowledge and experience remains on the Frontend, but I have a general understanding on both Frontend and Backend of web applications. 
 
+](https://github.com/opbonachera/gifs-app.git)https://github.com/opbonachera/gifs-app.git
