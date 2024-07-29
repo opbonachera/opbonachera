@@ -1,5 +1,5 @@
 # Hi there! 👋 My name is Ornella Bonachera. 
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opbonachera)](https://github.com/anuraghazra/github-readme-stats)
 - 📜 Currently studying Informatics Engineering at Universidad Nacional de La Matanza.
 - 🔭 Working as a Junior Web Developer in Universidad Nacional de Avellaneda.
 - 📅 My coding journey began in 2021. My favorite learning tools are the development of small projects and the reading of books.
