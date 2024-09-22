@@ -1,7 +1,6 @@
 # Hi there! 👋 My name is Ornella Bonachera. 
  
-- 📜 Currently studying Informatics Engineering at Universidad Nacional de La Matanza.
-- 🔭 Working as a Junior Web Developer in Universidad Nacional de Avellaneda.
+- 📜 Informatics Engineering Student.
 - ⚛ Technologies and languages I am familiar with: HTML, CSS, Javascript, Bootstrap, Docker, React.js, TypeScript, Next.js, Vue.js, SQL.
 - 💫 On this account you can find some of the projects I have worked on so far for different contexts: University subjects (C) and Personal projects (React.js, Angular, Vue.js, Next.js, Nest.js).
 
